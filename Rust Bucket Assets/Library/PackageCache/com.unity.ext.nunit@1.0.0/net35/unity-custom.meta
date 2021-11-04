@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:Rust Bucket Assets/Library/PackageCache/com.unity.ide.vscode@1.2.1/Editor.meta
+guid: 58628227479c34542ac8c5193ccced84
+=======
 guid: 2347243c7aa3e224f9282dc94e6fc3b2
+>>>>>>> 8417420e53ab03ecdbfab956ef024818605abd6b:Rust Bucket Assets/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
