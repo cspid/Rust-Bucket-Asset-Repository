@@ -1,9 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD:Rust Bucket Assets/Library/PackageCache/com.unity.ide.vscode@1.2.1/Editor/ProjectGeneration.meta
-guid: c779d3735d950f341ba35154e8b3234b
-=======
 guid: 58628227479c34542ac8c5193ccced84
->>>>>>> f302790 (Revert "Shane"):Rust Bucket Assets/Library/PackageCache/com.unity.ide.vscode@1.2.1/Editor.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
